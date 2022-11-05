@@ -4885,11 +4885,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Downloads\\Telegram Desktop\\Store\\Store\\Store\\Store.csproj",
+      "projectUniqueName": "C:\\Users\\User\\source\\repos\\Store\\Store\\Store\\Store.csproj",
       "projectName": "Store",
-      "projectPath": "C:\\Users\\User\\Downloads\\Telegram Desktop\\Store\\Store\\Store\\Store.csproj",
+      "projectPath": "C:\\Users\\User\\source\\repos\\Store\\Store\\Store\\Store.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Downloads\\Telegram Desktop\\Store\\Store\\Store\\obj\\",
+      "outputPath": "C:\\Users\\User\\source\\repos\\Store\\Store\\Store\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
